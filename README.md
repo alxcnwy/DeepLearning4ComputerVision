@@ -20,7 +20,7 @@ jupyter notebook
 ### Prerequisites
 
 ```
-keras, theano, pandas, numpy, etc 
+keras, tensorflow, pandas, numpy, etc 
 (conda distribution should include all pre-requisites, otherwise pip install any missing packages)
 See requirements.txt
 ```
